@@ -1,6 +1,6 @@
 import pyperclip #для копирования в буфер
 import subprocess # работы с командной строкой
-from colorama import init, Fore, Back, Style
+from colorama import init, Fore, Back, Style #покрасить текст
 init()
 ytdlp="yt-dlp "
 n=" && "
